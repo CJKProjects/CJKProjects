@@ -2,7 +2,7 @@
 
 I'm Cody, a computer science & mathematics student.
 <br> <br>
-I'm currently working on various information security projects, with the goal of transitioning into security engineering. Please feel free to review my work made publicly available here, and reach out to me on LinkedIn with any questions or comments.
+I'm currently working on various information security projects, with the goal of developing my skill set in penetration testing, ethical hacking, & security research. Please feel free to review my work made publicly available here, and reach out to me on LinkedIn with any questions or comments.
 <br> <br>
 | Project Description                          | Project Link                                   |
 |---------------------------------------------|------------------------------------------------|
