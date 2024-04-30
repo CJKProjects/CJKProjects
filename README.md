@@ -11,7 +11,7 @@ I'm currently working on various information security projects, with the goal of
 | Machine Learning Model Deployment Pipeline  | [ML Pipeline](https://github.com/your_username/ml-pipeline)|
 <br>
 
-[![LinkedIn Badge](https://img.shields.io/badge/Connect%20on-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/your_profile)
+[![LinkedIn Badge](https://img.shields.io/badge/Connect%20on-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/codyjknudsen/)
 <br>
 
 ![CompTIA A+ Badge](https://img.shields.io/badge/CompTIA-A%2B-blue)
