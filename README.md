@@ -1,15 +1,11 @@
 ### Hi there 👋
 
 I'm Cody, a computer science & mathematics student.
-<br>
-<br>
+<br> <br>
 I'm currently working on various information security projects, with the goal of transitioning into security engineering. Please feel free to review my work made publicly available here, and reach out to me on LinkedIn with any questions or comments.
 <br> <br>
 [![LinkedIn Badge](https://img.shields.io/badge/Connect%20on-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/codyjknudsen/)
-
 <br>
-
-
 ![CompTIA A+ Badge](https://img.shields.io/badge/CompTIA-A%2B-blue)
 ![CompTIA Network+ Badge](https://img.shields.io/badge/CompTIA-Network%2B-blue)
 ![ITIL 4 Foundation Badge](https://img.shields.io/badge/ITIL%204-Foundation-brightgreen)
