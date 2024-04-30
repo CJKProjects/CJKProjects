@@ -2,6 +2,7 @@
 
 ![CompTIA A+ Badge](https://img.shields.io/badge/CompTIA-A%2B-blue)
 ![CompTIA Network+ Badge](https://img.shields.io/badge/CompTIA-Network%2B-blue)
+![ITIL 4 Foundation Badge](https://img.shields.io/badge/ITIL%204-Foundation-brightgreen)
 
 <!--
 **CJKProjects/CJKProjects** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
