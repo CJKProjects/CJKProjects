@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Cody, a computer science & mathematics student.
+I'm Cody, a computer science & mathematics student. <br>
 I'm currently working on various information security projects, with the goal of transitioning into security engineering. 
 
 
