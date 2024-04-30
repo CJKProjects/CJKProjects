@@ -10,7 +10,7 @@ I'm currently working on various information security projects, with the goal of
 | Data Analysis Dashboard                     | [Dashboard](https://github.com/your_username/dashboard)   |
 | Machine Learning Model Deployment Pipeline  | [ML Pipeline](https://github.com/your_username/ml-pipeline)|
 <br>
-[![LinkedIn Badge](https://img.shields.io/badge/Connect%20on-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/codyjknudsen/)
+![LinkedIn Badge](https://img.shields.io/badge/Connect%20on-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/codyjknudsen/)
 <br>
 ![CompTIA A+ Badge](https://img.shields.io/badge/CompTIA-A%2B-blue)
 ![CompTIA Network+ Badge](https://img.shields.io/badge/CompTIA-Network%2B-blue)
