@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I'm Cody, a computer science & mathematics student. I'm currently working on various information security projects, with the goal of transitioing into security engineering. 
+
+
 ![CompTIA A+ Badge](https://img.shields.io/badge/CompTIA-A%2B-blue)
 ![CompTIA Network+ Badge](https://img.shields.io/badge/CompTIA-Network%2B-blue)
 ![ITIL 4 Foundation Badge](https://img.shields.io/badge/ITIL%204-Foundation-brightgreen)
